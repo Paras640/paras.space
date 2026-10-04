@@ -15,17 +15,7 @@ AI & Machine Learning: PyTorch, Hugging Face, LLM integrations (RAG pipelines)
 
 Version Control & CI/CD: Git, GitHub Actions
 
-📂 Repository Structure
-Plaintext
-paras.space/
-├── src/                    # Frontend components, pages, and layout styles
-│   ├── components/         # Reusable UI elements (Projects, About, Skills)
-│   ├── app/                # App router / page views
-│   └── styles/             # Tailwind & custom CSS files
-├── public/                 # Static assets, resume, and project imagery
-├── .github/workflows/      # Automated deployment and CI/CD pipelines
-├── package.json            # Node.js dependencies and scripts
-└── README.md               # Project documentation
+
 🚀 Key Features & Sections
 Interactive UI/UX: Sleek, modern layout built with responsive design principles and custom styling.
 
